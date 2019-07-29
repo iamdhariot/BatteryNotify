@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BatteryNotify</string>
+    <string name="notifications_sounds"><![CDATA[Notifications & Sounds]]></string>
+</resources>
